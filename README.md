@@ -44,7 +44,4 @@ kubeconfig: Configured
 
 You needs to create the deployent files to create the pods and replicset for each application using in votiong application and create service nodeport for the front voting app, you can use the default service cluster ip  for  other internal pods of voting app except worker node.
 
-Please check the master branch to get the voting app yaml files.
-
-
 =======================================================================
